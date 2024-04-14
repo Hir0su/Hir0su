@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **SQLite, Databases in General**
 
-- 🤝 I’m looking for help with [Capstone-IT07](https://github.com/Hir0su/Capstone-IT07)
-
-- 💬 Ask me about **Python, Java, C#**
+- 🤝 I’m looking for help with **N/A**
 
 - 📫 How to reach me **Email me at owen.santoscoc@gmail.com**
 
@@ -22,9 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Hir0su&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hir0su&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hir0su&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hir0su&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
