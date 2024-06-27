@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Capstone-IT07](https://github.com/Hir0su/Capstone-IT07)
 
-- 🌱 I’m currently learning **SQLite, Databases in General**
+- 🌱 I’m currently learning **DBMS, Python, React.js**
 
 - 🤝 I’m looking for help with **N/A**
 
