@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center">A 4th Year IT student from Mapúa Malayan Colleges Laguna</h3>
 
-- 🔭 I’m currently working on [Capstone-IT07](https://github.com/Hir0su/Capstone-IT07)
+- 🔭 I’m currently working on [Auto-Chart](https://github.com/Hir0su/Auto-Chart)
 
 - 🌱 I’m currently learning **DBMS, Flask, React.js**
 
