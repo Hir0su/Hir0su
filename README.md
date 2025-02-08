@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **N/A**
 
-- 📫 How to reach me **Email me at owen.santoscoc@gmail.com**
+- 📫 How to reach me **Email me at santosowengabriel@gmail.com**
 
 
 ## 🌐 Socials:
